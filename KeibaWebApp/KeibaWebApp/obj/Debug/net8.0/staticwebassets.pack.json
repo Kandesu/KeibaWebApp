@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\dev\\KeibaWebApp\\KeibaWebApp\\KeibaWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KeibaWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KeibaWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\dev\\KeibaWebApp\\KeibaWebApp\\KeibaWebApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\dev\\KeibaWebApp\\KeibaWebApp\\KeibaWebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\dev\\KeibaWebApp\\KeibaWebApp\\KeibaWebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\dev\\KeibaWebApp\\KeibaWebApp\\KeibaWebApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KeibaWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KeibaWebApp.props",
+      "PackagePath": "build\\KeibaWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KeibaWebApp.props",
+      "PackagePath": "buildMultiTargeting\\KeibaWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KeibaWebApp.props",
+      "PackagePath": "buildTransitive\\KeibaWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
